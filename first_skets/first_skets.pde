@@ -3,5 +3,5 @@ size(800, 400);
 }
 
 void draw(){
-backgroud(51);
+background(random(255));
 }
